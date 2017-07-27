@@ -26,6 +26,8 @@ https://github.com/alex-hernandez/Move_Trailer_Website
 
 Once on the webpage, click a movie poster to view the trailer!
 
+## Files enclosed:
+
 #### media.py
 This class is part of the repository which provides a way to store movie related information including:
 
