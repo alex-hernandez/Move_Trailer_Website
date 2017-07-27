@@ -15,14 +15,18 @@ Movies include:
 
 ## Download
 
-In order to view this website you will need to download Python
+1. In order to view this website you will need to download Python
 
-Aftewards download the repository from the link:
-https://github.com/alex-hernandez/Move_Trailer_Website.git
+2. Aftewards download the repository from the link:
+https://github.com/alex-hernandez/Move_Trailer_Website
 
-Locate the zip folder and double click on:
+3. Locate the zip folder and double click on:
 
 * entertainment_center
+
+## Instructions:
+
+Once on the webpage, click a movie poster to view the trailer!
 
 #### media.py
 This class is part of the repository which provides a way to store movie related information including:
