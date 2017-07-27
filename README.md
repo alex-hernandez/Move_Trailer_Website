@@ -1,6 +1,4 @@
-# Move_Trailer_Website
-Alex's Movie Trailer Website
-# Alex's Favorite Movies!
+# Alex's Movie Trailer Website
 
 Thank you for your interest in my **favorite** movies.
 
@@ -8,6 +6,8 @@ Two files enclosed:
 
 * media.py
 * entertainment_center
+
+### Download:
 
 ## media.py
 This class provides a way to store movie related information including:
