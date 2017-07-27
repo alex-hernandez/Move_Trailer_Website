@@ -18,7 +18,7 @@ Movies include:
 In order to view this website you will need to download Python
 
 Aftewards download the repository from the link:
-https://github.com/alex-hernandez/Move_Trailer_Website
+https://github.com/alex-hernandez/Move_Trailer_Website.git
 
 Locate the zip folder and double click on:
 
