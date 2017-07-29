@@ -13,8 +13,8 @@ toy_story = media.Movie("Toy Story",
 
 avatar = media.Movie("Avatar",
                      "A marine on an alient planet",
-                     "http://imgs.abduzeedo.com/files/"
-                     "articles/Avatar/4154691413_a695e033a8_o.jpg",
+                     "http://imgs.abduzeedo.com/files/articles/"
+                     "Avatar/4154691413_a695e033a8_o.jpg",
                      "https://www.youtube.com/watch?v="
                      "5PSNL1qE6VY&feature=youtu.be")
 
