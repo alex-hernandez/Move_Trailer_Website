@@ -20,7 +20,7 @@ Movies include:
 2. Aftewards download the repository from the link:
 https://github.com/alex-hernandez/Move_Trailer_Website
 
-3. Locate the zip folder and double click on: _entertainment_center_
+3. Unzip folder and double click on: _entertainment_center_
 
 ## Instructions:
 
